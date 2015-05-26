@@ -1,0 +1,23 @@
+{
+	"name": "esthers-crew",
+	"version": "0.1.0",
+	"description": "Esther's Crew intramurals website",
+	"main": "app.js",
+	"author": {
+		"name": "Ryan Erdmann",
+		"email": "ryanerdmann@hotmail.com",
+		"url": "https://github.com/ryanerdmann"
+	},
+	"contributors": [
+		{
+			"name": "Ryan Erdmann",
+			"email": "ryanerdmann@hotmail.com",
+			"url": "https://github.com/ryanerdmann"
+		}
+	],
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:KauffmanCenter/esthers-crew.git"
+	}
+}

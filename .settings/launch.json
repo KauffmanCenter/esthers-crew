@@ -1,0 +1,22 @@
+{
+	"version": "0.1.0",
+	
+	"configurations": [
+		{
+			"name": "Launch app.js",
+			"type": "node",
+			"program": "app/app.js",
+			"stopOnEntry": true,
+			"args": [],
+			"cwd": ".",
+			"runtimeExecutable": null,
+			"env": { }
+		}, 
+		{
+			"name": "Attach",
+			"type": "node",
+			"address": "localhost",
+			"port": 5858
+		}
+	]
+}
